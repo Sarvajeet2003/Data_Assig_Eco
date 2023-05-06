@@ -1,0 +1,544 @@
+﻿ #    ,PC Name,State,Margin % - 2019,Margin % - 2009,Margin % - 2014,Margin Final
+1,Adilabad,Telangana,5.50%,13.30%,16.40%,11.73%
+2,Agra,Uttar Pradesh [2000 Onwards],18.50%,1.50%,28.10%,16.03%
+3,Ahmadnagar,Maharashtra,23.40%,5.90%,19.70%,16.33%
+4,Ahmedabad East,Gujarat,38.90%,14.40%,33.10%,28.80%
+5,Ahmedabad West,Gujarat,32.30%,13.20%,33.20%,26.23%
+6,Ajmer,Rajasthan,33.00%,9.90%,14.90%,19.27%
+7,Akbarpur,Uttar Pradesh [2000 Onwards],26.80%,5.00%,28.70%,20.17%
+8,Akola,Maharashtra,24.60%,8.80%,20.80%,18.07%
+9,Alappuzha,Kerala,1.00%,6.30%,1.90%,3.07%
+10,Alathur,Kerala,15.60%,2.50%,4.00%,7.37%
+11,Aligarh,Uttar Pradesh [2000 Onwards],19.70%,2.40%,26.90%,16.33%
+12,Alipurduars,West Bengal,17.70%,12.10%,1.70%,10.50%
+13,Allahabad,Uttar Pradesh [2000 Onwards],20.70%,6.30%,7.00%,11.33%
+14,Almora,Uttarakhand,33.50%,1.40%,14.60%,16.50%
+15,Alwar,Rajasthan,26.10%,20.50%,26.70%,24.43%
+16,Amalapuram,Andhra Pradesh [2014 Onwards],3.20%,3.90%,10.80%,5.97%
+17,Ambala,Haryana,26.00%,1.70%,27.90%,18.53%
+18,Ambedkar Nagar,Uttar Pradesh [2000 Onwards],8.80%,2.80%,13.50%,8.37%
+19,Amethi,Uttar Pradesh [2000 Onwards],5.80%,57.20%,12.30%,25.10%
+20,Amravati,Maharashtra,3.30%,8.40%,13.70%,8.47%
+21,Amreli,Gujarat,22.20%,7.10%,19.30%,16.20%
+22,Amritsar,Punjab,11.60%,0.80%,10.20%,7.53%
+23,Amroha,Uttar Pradesh [2000 Onwards],5.40%,13.00%,14.40%,10.93%
+24,Anakapalli,Andhra Pradesh [2014 Onwards],7.20%,5.00%,4.20%,5.47%
+25,Anand,Gujarat,17.80%,10.00%,6.50%,11.43%
+26,Anandpur Sahib,Punjab,4.30%,7.40%,2.20%,4.63%
+27,Anantapur,Andhra Pradesh [2014 Onwards],10.50%,7.80%,5.10%,7.80%
+28,Anantnag,Jammu & Kashmir,5.30%,1.60%,17.40%,8.10%
+29,Andaman And Nicobar Islands,Andaman & Nicobar Islands,0.70%,1.80%,4.10%,2.20%
+30,Aonla,Uttar Pradesh [2000 Onwards],10.80%,1.10%,13.90%,8.60%
+31,Arakkonam,Tamil Nadu,27.90%,12.80%,22.10%,20.93%
+32,Arambagh,West Bengal,0.10%,17.30%,25.50%,14.30%
+33,Arani,Tamil Nadu,20.20%,12.70%,22.20%,18.37%
+34,Araria,Bihar [2000 Onwards],11.70%,3.10%,15.00%,9.93%
+35,Arrah,Bihar [2000 Onwards],13.60%,13.40%,15.20%,14.07%
+36,Aruku,Andhra Pradesh [2014 Onwards],20.90%,24.20%,10.00%,18.37%
+37,Arunachal East,Arunachal Pradesh,23.80%,31.80%,4.80%,20.13%
+38,Arunachal West,Arunachal Pradesh,48.80%,0.50%,12.40%,20.57%
+39,Asansol,West Bengal,16.00%,8.20%,6.20%,10.13%
+40,Aska,Orissa,20.20%,33.20%,34.80%,29.40%
+41,Attingal,Kerala,3.80%,2.50%,8.10%,4.80%
+42,Aurangabad,Maharashtra,0.40%,5.50%,16.50%,7.47%
+43,Aurangabad,Bihar [2000 Onwards],7.70%,12.00%,8.40%,9.37%
+44,Autonomous District,Assam,38.80%,15.50%,4.40%,19.57%
+45,Azamgarh,Uttar Pradesh [2000 Onwards],25.30%,7.00%,6.60%,12.97%
+46,Badaun,Uttar Pradesh [2000 Onwards],1.70%,4.40%,16.20%,7.43%
+47,Bagalkot,Karnataka,14.00%,4.10%,10.80%,9.63%
+48,Baghpat,Uttar Pradesh [2000 Onwards],2.20%,10.30%,20.90%,11.13%
+49,Baharampur,West Bengal,6.20%,19.60%,30.90%,18.90%
+50,Bahraich,Uttar Pradesh [2000 Onwards],13.00%,7.60%,10.20%,10.27%
+51,Balaghat,Madhya Pradesh [2000 Onwards],17.60%,5.40%,8.60%,10.53%
+52,Balasore,Orissa,1.10%,4.40%,13.50%,6.33%
+53,Ballia,Uttar Pradesh [2000 Onwards],1.60%,10.70%,14.80%,9.03%
+54,Balurghat,West Bengal,2.80%,0.60%,10.10%,4.50%
+55,Banaskantha,Gujarat,33.40%,1.60%,22.80%,19.27%
+56,Banda,Uttar Pradesh [2000 Onwards],5.70%,5.60%,13.50%,8.27%
+57,Bangalore Cent,Karnataka,5.90%,4.20%,12.80%,7.63%
+58,Bangalore Nort,Karnataka,9.50%,6.00%,16.90%,10.80%
+59,Bangalore Rura,Karnataka,12.80%,11.80%,15.90%,13.50%
+60,Bangalore Sout,Karnataka,27.90%,4.10%,20.50%,17.50%
+61,Bangaon,West Bengal,7.90%,8.60%,11.40%,9.30%
+62,Banka,Bihar [2000 Onwards],20.10%,4.40%,1.10%,8.53%
+63,Bankura,West Bengal,12.70%,10.90%,8.00%,10.53%
+64,Bansgaon,Uttar Pradesh [2000 Onwards],15.80%,8.10%,21.60%,15.17%
+65,Banswara,Rajasthan,21.20%,25.90%,7.80%,18.30%
+66,Bapatla,Andhra Pradesh [2014 Onwards],1.30%,6.60%,2.80%,3.57%
+67,Barabanki,Uttar Pradesh [2000 Onwards],9.50%,22.60%,19.80%,17.30%
+68,Baramati,Maharashtra,11.90%,45.90%,6.50%,21.43%
+69,Baramulla,Jammu & Kashmir,6.60%,14.70%,6.30%,9.20%
+70,Barasat,West Bengal,7.90%,12.00%,13.60%,11.17%
+71,Bardhaman Purb,West Bengal,6.20%,5.30%,8.70%,6.73%
+72,Bardoli,Gujarat,16.00%,7.10%,10.30%,11.13%
+73,Bareilly,Uttar Pradesh [2000 Onwards],15.70%,1.30%,23.60%,13.53%
+74,Bargarh,Orissa,5.10%,10.70%,1.00%,5.60%
+75,Barmer,Rajasthan,22.80%,15.10%,7.20%,15.03%
+76,Barpeta,Assam,9.60%,3.40%,3.50%,5.50%
+77,Barrackpore,West Bengal,1.30%,6.40%,19.70%,9.13%
+78,Basirhat,West Bengal,24.40%,5.80%,8.60%,12.93%
+79,Bastar,Chhattisgarh,4.30%,17.80%,16.20%,12.77%
+80,Basti,Uttar Pradesh [2000 Onwards],2.90%,13.60%,3.20%,6.57%
+81,Bathinda,Punjab,1.80%,11.50%,11.10%,8.13%
+82,Beed,Maharashtra,12.40%,13.10%,5.40%,10.30%
+83,Begusarai,Bihar [2000 Onwards],34.40%,5.70%,7.00%,15.70%
+84,Belgaum,Karnataka,32.50%,15.70%,8.10%,18.77%
+85,Bellary,Karnataka,4.60%,0.30%,14.10%,6.33%
+86,Berhampur,Orissa,9.60%,8.10%,31.40%,16.37%
+87,Betul,Madhya Pradesh [2000 Onwards],26.50%,15.30%,16.10%,19.30%
+88,Bhadohi,Uttar Pradesh [2000 Onwards],4.20%,2.00%,16.60%,7.60%
+89,Bhadrak,Orissa,2.40%,5.90%,1.00%,3.10%
+90,Bhagalpur,Bihar [2000 Onwards],26.60%,8.90%,12.50%,16.00%
+91,Bhandara - Gon,Maharashtra,15.90%,24.40%,25.50%,21.93%
+92,Bharatpur,Rajasthan,27.80%,14.50%,14.50%,18.93%
+93,Bharuch,Gujarat,29.10%,3.60%,1.60%,11.43%
+94,Bhavnagar,Gujarat,31.60%,0.90%,32.20%,21.57%
+95,Bhilwara,Rajasthan,46.70%,17.90%,22.30%,28.97%
+96,Bhind,Madhya Pradesh [2000 Onwards],20.80%,3.60%,21.90%,15.43%
+97,Bhiwandi,Maharashtra,15.60%,7.10%,12.50%,11.73%
+98,Bhiwani-Mahend,Haryana,38.30%,6.40%,12.60%,19.10%
+99,Bhongir,Telangana,0.40%,12.40%,2.50%,5.10%
+100,Bhopal,Madhya Pradesh [2000 Onwards],25.90%,9.90%,32.80%,22.87%
+101,Bhubaneswar,Orissa,2.40%,35.60%,21.20%,19.73%
+102,Bidar,Karnataka,10.50%,5.10%,9.60%,8.40%
+103,Bijapur,Karnataka,23.20%,6.50%,7.20%,12.30%
+104,Bijnor,Uttar Pradesh [2000 Onwards],6.40%,4.00%,19.40%,9.93%
+105,Bikaner,Rajasthan,24.00%,3.40%,33.10%,20.17%
+106,Bilaspur,Chhattisgarh,11.70%,2.60%,16.20%,10.17%
+107,Birbhum,West Bengal,6.10%,6.00%,5.30%,5.80%
+108,Bishnupur,West Bengal,5.50%,12.30%,11.80%,9.87%
+109,Bolangir,Orissa,1.50%,9.00%,8.90%,6.47%
+110,Bolpur,West Bengal,7.30%,11.80%,18.10%,12.40%
+111,Bulandshahr,Uttar Pradesh [2000 Onwards],25.80%,9.90%,41.80%,25.83%
+112,Buldhana,Maharashtra,11.90%,3.30%,16.30%,10.50%
+113,Burdwan - Durg,West Bengal,0.20%,9.50%,8.10%,5.93%
+114,Buxar,Bihar [2000 Onwards],11.90%,0.40%,14.90%,9.07%
+115,Chalakudy,Kerala,13.40%,9.00%,1.60%,8.00%
+116,Chamarajanagar,Karnataka,0.10%,0.40%,12.50%,4.33%
+117,Chandauli,Uttar Pradesh [2000 Onwards],1.30%,0.10%,16.00%,5.80%
+118,Chandigarh,Chandigarh,10.30%,17.20%,15.40%,14.30%
+119,Chandni Chowk,Delhi [1977 Onwards],23.30%,25.70%,13.90%,20.97%
+120,Chandrapur,Maharashtra,3.60%,3.60%,21.30%,9.50%
+121,Chatra,Jharkhand,40.80%,3.40%,25.00%,23.07%
+122,Chelvella,Telangana,1.10%,1.70%,5.50%,2.77%
+123,Chennai Centra,Tamil Nadu,38.40%,5.50%,5.60%,16.50%
+124,Chennai North,Tamil Nadu,48.30%,2.90%,11.00%,20.73%
+125,Chennai South,Tamil Nadu,23.30%,4.50%,12.60%,13.47%
+126,Chhindwara,Madhya Pradesh [2000 Onwards],3.00%,14.60%,10.50%,9.37%
+127,Chhota Udaipur,Gujarat,30.70%,3.50%,16.30%,16.83%
+128,Chidambaram,Tamil Nadu,0.30%,11.40%,11.80%,7.83%
+129,Chikkballapur,Karnataka,13.10%,5.20%,0.80%,6.37%
+130,Chikkodi,Karnataka,9.80%,6.40%,0.30%,5.50%
+131,Chitradurga,Karnataka,6.40%,16.20%,9.20%,10.60%
+132,Chittoor,Andhra Pradesh [2014 Onwards],10.40%,1.00%,3.70%,5.03%
+133,Chittorgarh,Rajasthan,39.50%,9.20%,27.00%,25.23%
+134,Churu,Rajasthan,25.20%,1.50%,26.10%,17.60%
+135,Coimbatore,Tamil Nadu,14.30%,4.70%,3.60%,7.53%
+136,Cooch Behar,West Bengal,3.60%,3.00%,6.50%,4.37%
+137,Cuddalore,Tamil Nadu,13.80%,3.10%,20.60%,12.50%
+138,Cuttack,Orissa,11.40%,29.10%,31.30%,23.93%
+139,Dadra And Nagar Haveli,Dadra & Nagar Haveli,4.50%,0.60%,3.80%,2.97%
+140,Dahod,Gujarat,12.00%,11.00%,25.60%,16.20%
+141,Dakshina Kanna,Karnataka,20.40%,4.00%,11.90%,12.10%
+142,Daman And Diu,Daman & Diu,11.40%,36.50%,10.60%,19.50%
+143,Damoh,Madhya Pradesh [2000 Onwards],30.40%,11.80%,23.40%,21.87%
+144,Darbhanga,Bihar [2000 Onwards],27.80%,8.50%,4.20%,13.50%
+145,Darjeeling,West Bengal,32.60%,26.20%,17.30%,25.37%
+146,Dausa,Rajasthan,7.40%,16.40%,4.90%,9.57%
+147,Davanagere,Karnataka,14.20%,0.20%,1.60%,5.33%
+148,Deoria,Uttar Pradesh [2000 Onwards],24.60%,5.80%,27.30%,19.23%
+149,Dewas,Madhya Pradesh [2000 Onwards],26.60%,2.00%,22.80%,17.13%
+150,Dhanbad,Jharkhand,38.80%,7.10%,25.60%,23.83%
+151,Dhar,Madhya Pradesh [2000 Onwards],11.60%,0.40%,9.70%,7.23%
+152,Dharmapuri,Tamil Nadu,5.80%,17.50%,7.00%,10.10%
+153,Dharwad,Karnataka,16.90%,17.20%,10.90%,15.00%
+154,Dhaurahra,Uttar Pradesh [2000 Onwards],15.10%,24.30%,11.90%,17.10%
+155,Dhenkanal,Orissa,3.10%,21.80%,13.20%,12.70%
+156,Dhubri,Assam,13.40%,17.60%,16.80%,15.93%
+157,Dhule,Maharashtra,21.10%,2.90%,13.30%,12.43%
+158,Diamond Harbou,West Bengal,22.80%,14.40%,5.70%,14.30%
+159,Dibrugarh,Assam,35.90%,4.70%,20.80%,20.47%
+160,Dindigul,Tamil Nadu,46.50%,6.60%,11.80%,21.63%
+161,Dindori,Maharashtra,17.50%,5.50%,25.50%,16.17%
+162,Domariyaganj,Uttar Pradesh [2000 Onwards],10.70%,10.40%,11.10%,10.73%
+163,Dum Dum,West Bengal,4.40%,2.10%,13.70%,6.73%
+164,Dumka,Jharkhand,4.60%,3.00%,4.30%,3.97%
+165,Durg,Chhattisgarh,28.20%,1.10%,1.30%,10.20%
+166,East Delhi,Delhi [1977 Onwards],31.10%,28.10%,15.90%,25.03%
+167,Eluru,Andhra Pradesh [2014 Onwards],12.50%,3.90%,8.50%,8.30%
+168,Ernakulam,Kerala,17.50%,1.60%,10.20%,9.77%
+169,Erode,Tamil Nadu,19.70%,6.40%,21.00%,15.70%
+170,Etah,Uttar Pradesh [2000 Onwards],12.30%,22.60%,21.70%,18.87%
+171,Etawah,Uttar Pradesh [2000 Onwards],6.30%,7.30%,18.40%,10.67%
+172,Faizabad,Uttar Pradesh [2000 Onwards],6.00%,7.20%,27.60%,13.60%
+173,Faridabad,Haryana,48.10%,10.90%,41.30%,33.43%
+174,Faridkot,Punjab,8.50%,6.70%,16.70%,10.63%
+175,Farrukhabad,Uttar Pradesh [2000 Onwards],22.10%,4.50%,15.50%,14.03%
+176,Fatehgarh Sahi,Punjab,9.50%,4.10%,5.30%,6.30%
+177,Fatehpur,Uttar Pradesh [2000 Onwards],19.00%,7.50%,17.70%,14.73%
+178,Fatehpur Sikri,Uttar Pradesh [2000 Onwards],47.70%,1.40%,17.90%,22.33%
+179,Ferozpur,Punjab,17.00%,2.20%,2.80%,7.33%
+180,Firozabad,Uttar Pradesh [2000 Onwards],2.70%,9.80%,10.30%,7.60%
+181,Gadchiroli-Chi,Maharashtra,6.80%,3.40%,23.10%,11.10%
+182,Gandhinagar,Gujarat,43.40%,15.40%,42.50%,33.77%
+183,Ganganagar,Rajasthan,28.00%,15.40%,23.20%,22.20%
+184,Garhwal,Uttarakhand,40.70%,3.20%,27.10%,23.67%
+185,Gauhati,Assam,19.60%,1.10%,20.90%,13.87%
+186,Gautam Buddh N,Uttar Pradesh [2000 Onwards],24.20%,2.20%,23.40%,16.60%
+187,Gaya,Bihar [2000 Onwards],15.90%,11.10%,14.30%,13.77%
+188,Ghatal,West Bengal,7.30%,12.60%,19.10%,13.00%
+189,Ghaziabad,Uttar Pradesh [2000 Onwards],32.90%,10.90%,42.30%,28.70%
+190,Ghazipur,Uttar Pradesh [2000 Onwards],10.80%,9.00%,3.30%,7.70%
+191,Ghosi,Uttar Pradesh [2000 Onwards],10.70%,8.00%,14.00%,10.90%
+192,Giridih,Jharkhand,22.40%,15.30%,4.20%,13.97%
+193,Godda,Jharkhand,15.40%,0.80%,5.80%,7.33%
+194,Gonda,Uttar Pradesh [2000 Onwards],18.00%,3.90%,18.40%,13.43%
+195,Gopalganj,Bihar [2000 Onwards],27.90%,8.40%,31.80%,22.70%
+196,Gorakhpur,Uttar Pradesh [2000 Onwards],25.50%,29.40%,30.10%,28.33%
+197,Gulbarga,Karnataka,8.00%,1.80%,7.50%,5.77%
+198,Guna,Madhya Pradesh [2000 Onwards],10.70%,38.40%,12.40%,20.50%
+199,Guntur,Andhra Pradesh [2014 Onwards],0.30%,3.70%,5.60%,3.20%
+200,Gurdaspur,Punjab,7.50%,0.90%,13.00%,7.13%
+201,Gurgaon,Haryana,26.70%,11.20%,20.80%,19.57%
+202,Gwalior,Madhya Pradesh [2000 Onwards],12.30%,4.60%,3.00%,6.63%
+203,Hajipur,Bihar [2000 Onwards],20.40%,6.80%,24.90%,17.37%
+204,Hamirpur,Himachal Pradesh,40.40%,10.40%,11.80%,20.87%
+205,Hamirpur,Uttar Pradesh [2000 Onwards],22.80%,3.60%,27.40%,17.93%
+206,Hardoi,Uttar Pradesh [2000 Onwards],12.50%,16.20%,8.40%,12.37%
+207,Hardwar,Uttarakhand,20.40%,16.20%,15.10%,17.23%
+208,Hassan,Karnataka,11.10%,29.70%,8.80%,16.53%
+209,Hathras,Uttar Pradesh [2000 Onwards],22.60%,5.70%,31.10%,19.80%
+210,Hatkanangle,Maharashtra,7.70%,9.70%,15.00%,10.80%
+211,Haveri,Karnataka,11.10%,10.10%,7.80%,9.67%
+212,Hazaribagh,Jharkhand,44.40%,5.80%,16.50%,22.23%
+213,Hindupur,Andhra Pradesh [2014 Onwards],10.50%,2.20%,8.30%,7.00%
+214,Hingoli,Maharashtra,24.00%,9.00%,0.20%,11.07%
+215,Hisar,Haryana,26.60%,0.80%,2.80%,10.07%
+216,Hooghly,West Bengal,5.00%,7.00%,14.00%,8.67%
+217,Hoshangabad,Madhya Pradesh [2000 Onwards],43.70%,2.70%,37.80%,28.07%
+218,Hoshiarpur,Punjab,4.90%,0.00%,1.40%,2.10%
+219,Howrah,West Bengal,8.50%,3.80%,17.50%,9.93%
+220,Hyderabad,Telangana,32.10%,15.60%,20.80%,22.83%
+221,Idukki,Kerala,18.60%,9.50%,6.20%,11.43%
+222,Indore,Madhya Pradesh [2000 Onwards],33.60%,1.40%,35.50%,23.50%
+223,Inner Manipur,Manipur,2.30%,5.30%,14.80%,7.47%
+224,Jabalpur,Madhya Pradesh [2000 Onwards],36.00%,16.70%,20.80%,24.50%
+225,Jadavpur,West Bengal,20.50%,5.20%,9.80%,11.83%
+226,Jagatsinghpur,Orissa,22.10%,7.80%,24.40%,18.10%
+227,Jahanabad,Bihar [2000 Onwards],0.20%,3.60%,5.20%,3.00%
+228,Jaipur,Rajasthan,29.60%,2.00%,41.60%,24.40%
+229,Jaipur Rural,Rajasthan,30.80%,7.60%,32.80%,23.73%
+230,Jajpur,Orissa,9.30%,15.60%,32.70%,19.20%
+231,Jalandhar,Punjab,1.90%,4.10%,6.80%,4.27%
+232,Jalaun,Uttar Pradesh [2000 Onwards],14.00%,1.40%,25.90%,13.77%
+233,Jalgaon,Maharashtra,37.80%,14.60%,38.70%,30.37%
+234,Jalna,Maharashtra,27.50%,1.10%,19.40%,16.00%
+235,Jalore,Rajasthan,19.20%,8.60%,35.10%,20.97%
+236,Jalpaiguri,West Bengal,12.30%,8.60%,5.30%,8.73%
+237,Jammu,Jammu & Kashmir,20.50%,14.40%,20.50%,18.47%
+238,Jamnagar,Gujarat,23.40%,4.40%,20.60%,16.13%
+239,Jamshedpur,Jharkhand,26.40%,17.00%,9.50%,17.63%
+240,Jamui,Bihar [2000 Onwards],25.40%,5.60%,11.10%,14.03%
+241,Jangipur,West Bengal,18.80%,13.70%,0.70%,11.07%
+242,Janjgir-Champa,Chhattisgarh,6.70%,11.80%,16.30%,11.60%
+243,Jaunpur,Uttar Pradesh [2000 Onwards],7.80%,10.50%,14.50%,10.93%
+244,Jhalawar-Baran,Rajasthan,33.10%,6.10%,24.60%,21.27%
+245,Jhanjharpur,Bihar [2000 Onwards],30.50%,12.00%,5.90%,16.13%
+246,Jhansi,Uttar Pradesh [2000 Onwards],26.50%,5.50%,14.40%,15.47%
+247,Jhargram,West Bengal,0.80%,30.50%,27.70%,19.67%
+248,Jhunjhunu,Rajasthan,25.20%,10.80%,23.20%,19.73%
+249,Jodhpur,Rajasthan,20.40%,14.40%,38.00%,24.27%
+250,Jorhat,Assam,7.80%,9.40%,11.00%,9.40%
+251,Joynagar,West Bengal,23.40%,5.90%,9.10%,12.80%
+252,Junagadh,Gujarat,14.90%,1.80%,14.40%,10.37%
+253,Kachchh,Gujarat,29.90%,12.60%,26.90%,23.13%
+254,Kadapa,Andhra Pradesh [2014 Onwards],31.00%,17.30%,15.90%,21.40%
+255,Kairana,Uttar Pradesh [2000 Onwards],8.20%,3.10%,21.20%,10.83%
+256,Kaiserganj,Uttar Pradesh [2000 Onwards],26.70%,12.80%,8.30%,15.93%
+257,Kakinada,Andhra Pradesh [2014 Onwards],2.10%,3.50%,0.30%,1.97%
+258,Kalahandi,Orissa,2.20%,15.70%,5.00%,7.63%
+259,Kaliabor,Assam,14.70%,15.80%,8.00%,12.83%
+260,Kallakurichi,Tamil Nadu,33.20%,41.70%,20.20%,31.70%
+261,Kalyan,Maharashtra,38.70%,4.40%,30.40%,24.50%
+262,Kancheepuram,Tamil Nadu,23.20%,1.70%,13.00%,12.63%
+263,Kandhamal,Orissa,15.80%,21.30%,21.60%,19.57%
+264,Kangra,Himachal Pradesh,47.40%,3.10%,21.30%,23.93%
+265,Kanker,Chhattisgarh,0.60%,2.60%,3.50%,2.23%
+266,Kannauj,Uttar Pradesh [2000 Onwards],1.10%,15.60%,1.80%,6.17%
+267,Kanniyakumari,Tamil Nadu,24.80%,8.60%,13.00%,15.47%
+268,Kannur,Kerala,9.00%,5.00%,0.70%,4.90%
+269,Kanpur,Uttar Pradesh [2000 Onwards],18.50%,3.70%,26.70%,16.30%
+270,Kanthi,West Bengal,7.80%,11.50%,17.80%,12.37%
+271,Karakat,Bihar [2000 Onwards],9.70%,3.50%,13.30%,8.83%
+272,Karauli-Dholpu,Rajasthan,9.80%,6.10%,3.20%,6.37%
+273,Karimnagar,Telangana,7.80%,1.20%,11.50%,6.83%
+274,Karnal,Haryana,50.40%,5.10%,18.20%,24.57%
+275,Karur,Tamil Nadu,38.10%,9.40%,30.20%,25.90%
+276,Kasaragod,Kerala,3.70%,5.70%,18.70%,9.37%
+277,Katihar,Bihar [2000 Onwards],5.10%,7.60%,0.70%,4.47%
+278,Kaushambi,Uttar Pradesh [2000 Onwards],4.00%,1.90%,11.70%,5.87%
+279,Kendrapara,Orissa,12.30%,10.10%,4.70%,9.03%
+280,Keonjhar,Orissa,5.60%,12.90%,18.30%,12.27%
+281,Khadoor Sahib,Punjab,13.40%,14.20%,14.50%,14.03%
+282,Khagaria,Bihar [2000 Onwards],25.70%,3.40%,9.70%,12.93%
+283,Khajuraho,Madhya Pradesh [2000 Onwards],39.10%,22.20%,8.50%,23.27%
+284,Khammam,Telangana,14.70%,4.90%,28.30%,15.97%
+285,Khandwa,Madhya Pradesh [2000 Onwards],18.60%,12.00%,1.00%,10.53%
+286,Khargone,Madhya Pradesh [2000 Onwards],14.20%,6.00%,20.70%,13.63%
+287,Kheda,Gujarat,33.40%,4.50%,22.40%,20.10%
+288,Kheri,Uttar Pradesh [2000 Onwards],19.20%,0.10%,24.40%,14.57%
+289,Khunti,Jharkhand,0.20%,1.20%,10.20%,3.87%
+290,Kishanganj,Bihar [2000 Onwards],3.10%,15.70%,12.50%,10.43%
+291,Kodarma,Jharkhand,37.70%,12.80%,21.00%,23.83%
+292,Kokrajhar,Assam,2.60%,6.20%,9.60%,6.13%
+293,Kolar,Karnataka,16.70%,18.70%,29.10%,21.50%
+294,Kolhapur,Maharashtra,20.30%,2.50%,4.20%,9.00%
+295,Kolkata Dakshi,West Bengal,12.90%,4.40%,2.60%,6.63%
+296,Kolkata Uttar,West Bengal,13.40%,21.80%,11.70%,15.63%
+297,Kollam,Kerala,15.40%,12.40%,10.10%,12.63%
+298,Koppal,Karnataka,3.20%,2.30%,4.30%,3.27%
+299,Koraput,Orissa,0.30%,10.80%,3.20%,4.77%
+300,Korba,Chhattisgarh,2.30%,12.70%,2.00%,5.67%
+301,Kota,Rajasthan,20.50%,2.80%,0.40%,7.90%
+302,Kottayam,Kerala,11.70%,12.20%,17.40%,13.77%
+303,Kozhikode,Kerala,7.90%,8.80%,14.50%,10.40%
+304,Krishnagiri,Tamil Nadu,13.50%,0.10%,1.80%,5.13%
+305,Krishnanagar,West Bengal,4.60%,10.20%,19.30%,11.37%
+306,Kurnool,Andhra Pradesh [2014 Onwards],12.60%,7.40%,5.70%,8.57%
+307,Kurukshetra,Haryana,31.30%,8.40%,4.10%,14.60%
+308,Kushi Nagar,Uttar Pradesh [2000 Onwards],32.10%,13.60%,11.40%,19.03%
+309,Ladakh,Jammu & Kashmir,8.60%,2.90%,9.00%,6.83%
+310,Lakhimpur,Assam,27.30%,3.30%,0.00%,10.20%
+311,Lakshadweep,Lakshadweep,1.80%,4.90%,26.30%,11.00%
+312,Lalganj,Uttar Pradesh [2000 Onwards],16.80%,5.60%,3.60%,8.67%
+313,Latur,Maharashtra,24.60%,6.10%,7.00%,12.57%
+314,Lohardaga,Jharkhand,1.30%,1.00%,24.00%,8.77%
+315,Lucknow,Uttar Pradesh [2000 Onwards],31.10%,1.60%,1.00%,11.23%
+316,Ludhiana,Punjab,7.30%,7.00%,26.40%,13.57%
+317,Machhlishahr,Uttar Pradesh [2000 Onwards],0.00%,13.40%,1.80%,5.07%
+318,Machilipatnam,Andhra Pradesh [2014 Onwards],4.80%,3.40%,17.30%,8.50%
+319,Madha,Maharashtra,7.10%,1.20%,7.10%,5.13%
+320,Madhepura,Bihar [2000 Onwards],26.30%,34.20%,2.30%,20.93%
+321,Madhubani,Bihar [2000 Onwards],47.20%,23.50%,5.40%,25.37%
+322,Madurai,Tamil Nadu,13.70%,1.80%,2.40%,5.97%
+323,Mahabubabad,Telangana,14.90%,17.80%,20.20%,17.63%
+324,Maharajganj,Uttar Pradesh [2000 Onwards],27.70%,6.90%,3.10%,12.57%
+325,Maharajganj,Bihar [2000 Onwards],23.70%,20.60%,22.80%,22.37%
+326,Mahasamund,Chhattisgarh,7.40%,0.50%,4.50%,4.13%
+327,Mahbubnagar,Telangana,7.90%,6.60%,0.10%,4.87%
+328,Mahesana,Gujarat,26.00%,2.20%,0.30%,9.50%
+329,Mainpuri,Uttar Pradesh [2000 Onwards],9.70%,3.20%,20.80%,11.23%
+330,Malappuram,Kerala,25.10%,24.80%,36.50%,28.80%
+331,Maldaha Dakshi,West Bengal,0.60%,14.70%,22.80%,12.70%
+332,Maldaha Uttar,West Bengal,6.20%,16.40%,15.00%,12.53%
+333,Malkajgiri,Telangana,0.70%,6.50%,5.60%,4.27%
+334,Mandi,Himachal Pradesh,43.10%,7.70%,1.80%,17.53%
+335,Mandla,Madhya Pradesh [2000 Onwards],6.40%,2.00%,5.50%,4.63%
+336,Mandsour,Madhya Pradesh [2000 Onwards],27.50%,7.60%,9.10%,14.73%
+337,Mandya,Karnataka,9.10%,4.00%,26.10%,13.07%
+338,Mangaldoi,Assam,9.20%,2.30%,0.50%,4.00%
+339,Mathura,Uttar Pradesh [2000 Onwards],26.60%,5.70%,1.90%,11.40%
+340,Mathurapur,West Bengal,14.50%,23.30%,30.70%,22.83%
+341,Maval,Maharashtra,15.80%,12.40%,10.90%,13.03%
+342,Mavelikkara,Kerala,6.30%,11.20%,13.40%,10.30%
+343,Mayiladuthurai,Tamil Nadu,23.80%,6.00%,3.70%,11.17%
+344,Mayurbhanj,Orissa,2.20%,4.60%,27.00%,11.27%
+345,Medak,Telangana,27.50%,8.00%,11.70%,15.73%
+346,Medinipur,West Bengal,6.30%,0.60%,33.30%,13.40%
+347,Meerut,Uttar Pradesh [2000 Onwards],0.40%,4.60%,14.70%,6.57%
+348,Mirzapur,Uttar Pradesh [2000 Onwards],20.90%,6.50%,20.90%,16.10%
+349,Misrikh,Uttar Pradesh [2000 Onwards],9.80%,2.70%,21.70%,11.40%
+350,Mizoram,Mizoram,1.60%,3.80%,8.80%,4.73%
+351,Mohanlalganj,Uttar Pradesh [2000 Onwards],7.10%,32.80%,1.40%,13.77%
+352,Moradabad,Uttar Pradesh [2000 Onwards],7.60%,11.00%,13.00%,10.53%
+353,Morena,Madhya Pradesh [2000 Onwards],10.00%,6.40%,7.80%,8.07%
+354,Mumbai North,Maharashtra,47.00%,14.20%,15.60%,25.60%
+355,Mumbai North Central,Maharashtra,14.40%,0.80%,47.20%,20.80%
+356,Mumbai North East,Maharashtra,24.90%,26.30%,22.10%,24.43%
+357,Mumbai North West,Maharashtra,27.70%,0.40%,36.80%,21.63%
+358,Mumbai South,Maharashtra,12.50%,5.40%,20.40%,12.77%
+359,Mumbai South Central,Maharashtra,19.10%,17.60%,16.40%,17.70%
+360,Munger,Bihar [2000 Onwards],16.20%,12.60%,18.00%,15.60%
+361,Murshidabad,West Bengal,15.60%,29.10%,11.90%,18.87%
+362,Muzaffarnagar,Uttar Pradesh [2000 Onwards],0.60%,3.40%,1.40%,1.80%
+363,Muzaffarpur,Bihar [2000 Onwards],38.70%,2.80%,36.20%,25.90%
+364,Mysore,Karnataka,10.50%,7.70%,23.40%,13.87%
+365,Nabarangpur,Orissa,3.60%,0.80%,2.70%,2.37%
+366,Nagaland,Nagaland,1.60%,3.80%,0.20%,1.87%
+367,Nagapattinam,Tamil Nadu,21.10%,40.60%,38.50%,33.40%
+368,Nagarkurnool,Telangana,19.20%,6.30%,11.30%,12.27%
+369,Nagaur,Rajasthan,15.10%,4.60%,1.50%,7.07%
+370,Nagina,Uttar Pradesh [2000 Onwards],16.50%,25.40%,7.50%,16.47%
+371,Nagpur,Maharashtra,18.20%,9.30%,9.80%,12.43%
+372,Nainital-Udham,Uttarakhand,26.90%,3.20%,26.30%,18.80%
+373,Nalanda,Bihar [2000 Onwards],24.80%,11.70%,25.80%,20.77%
+374,Nalgonda,Telangana,2.20%,26.90%,1.00%,10.03%
+375,Namakkal,Tamil Nadu,23.40%,14.10%,16.20%,17.90%
+376,Nanded,Maharashtra,3.60%,12.10%,27.80%,14.50%
+377,Nandurbar,Maharashtra,7.50%,9.60%,8.00%,8.37%
+378,Nandyal,Andhra Pradesh [2014 Onwards],19.30%,10.40%,9.60%,13.10%
+379,Narasaraopet,Andhra Pradesh [2014 Onwards],10.70%,9.10%,8.80%,9.53%
+380,Narsapuram,Andhra Pradesh [2014 Onwards],2.80%,0.10%,2.80%,1.90%
+381,Nashik,Maharashtra,26.10%,11.50%,7.80%,15.13%
+382,Navsari,Gujarat,52.70%,3.40%,20.00%,25.37%
+383,Nawada,Bihar [2000 Onwards],15.70%,17.50%,48.10%,27.10%
+384,Nellore,Andhra Pradesh [2014 Onwards],11.50%,6.00%,15.80%,11.10%
+385,New Delhi,Delhi [1977 Onwards],27.90%,5.50%,1.10%,11.50%
+386,Nilgiris,Tamil Nadu,20.40%,24.50%,16.80%,20.57%
+387,Nizamabad,Telangana,6.70%,12.10%,11.20%,10.00%
+388,North East Delhi,Delhi [1977 Onwards],25.10%,6.80%,16.20%,16.03%
+389,North Goa,Goa,18.70%,25.30%,10.90%,18.30%
+390,North West Delhi,Delhi [1977 Onwards],39.50%,2.20%,26.00%,22.57%
+391,Nowgong,Assam,1.10%,21.50%,7.90%,10.17%
+392,Ongole,Andhra Pradesh [2014 Onwards],16.00%,4.50%,11.70%,10.73%
+393,Osmanabad,Maharashtra,10.60%,7.60%,1.30%,6.50%
+394,Outer Manipur,Manipur,8.60%,0.70%,21.00%,10.10%
+395,Palakkad,Kerala,1.10%,15.90%,2.00%,6.33%
+396,Palamau,Jharkhand,39.50%,0.20%,11.60%,17.10%
+397,Palghar,Maharashtra,7.40%,3.60%,27.00%,12.67%
+398,Pali,Rajasthan,35.40%,1.70%,24.10%,20.40%
+399,Panchmahal,Gujarat,39.50%,27.10%,36.40%,34.33%
+400,Parbhani,Maharashtra,3.40%,0.30%,18.30%,7.33%
+401,Paschim Champaran,Bihar [2000 Onwards],29.00%,7.50%,10.90%,15.80%
+402,Pataliputra,Bihar [2000 Onwards],3.60%,9.20%,12.90%,8.57%
+403,Patan,Gujarat,17.20%,3.70%,4.10%,8.33%
+404,Pathanamthitta,Kerala,4.30%,2.90%,14.50%,7.23%
+405,Patiala,Punjab,13.80%,13.90%,6.50%,11.40%
+406,Patna Sahib,Bihar [2000 Onwards],29.00%,10.40%,1.90%,13.77%
+407,Peddapalle,Telangana,9.80%,30.20%,30.10%,23.37%
+408,Perambalur,Tamil Nadu,36.60%,5.40%,28.50%,23.50%
+409,Phulpur,Uttar Pradesh [2000 Onwards],17.60%,9.30%,20.70%,15.87%
+410,Pilibhit,Uttar Pradesh [2000 Onwards],21.50%,2.60%,32.10%,18.73%
+411,Pollachi,Tamil Nadu,16.30%,33.60%,29.20%,26.37%
+412,Ponnani,Kerala,19.00%,6.00%,13.90%,12.97%
+413,Porbandar,Gujarat,24.20%,15.10%,8.20%,15.83%
+414,Pratapgarh,Uttar Pradesh [2000 Onwards],12.90%,10.70%,2.90%,8.83%
+415,Puducherry,Pondicherry,24.90%,6.00%,33.10%,21.33%
+416,Pune,Maharashtra,31.40%,4.60%,18.80%,18.27%
+417,Puri,Orissa,1.00%,3.50%,31.80%,12.10%
+418,Purnia,Bihar [2000 Onwards],22.80%,23.20%,25.30%,23.77%
+419,Purulia,West Bengal,15.10%,26.40%,11.50%,17.67%
+420,Purvi Champaran,Bihar [2000 Onwards],29.40%,2.10%,12.80%,14.77%
+421,Rae Bareli,Uttar Pradesh [2000 Onwards],17.40%,16.40%,23.40%,19.07%
+422,Raichur,Karnataka,10.50%,55.80%,42.70%,36.33%
+423,Raigad,Maharashtra,3.10%,4.50%,0.20%,2.60%
+424,Raiganj,West Bengal,4.70%,19.00%,0.20%,7.97%
+425,Raigarh,Chhattisgarh,4.90%,11.70%,0.10%,5.57%
+426,Raipur,Chhattisgarh,24.90%,6.00%,17.40%,16.10%
+427,Rajahmundry,Andhra Pradesh [2014 Onwards],9.70%,7.80%,13.70%,10.40%
+428,Rajampet,Andhra Pradesh [2014 Onwards],21.90%,0.20%,14.50%,12.20%
+429,Rajgarh,Madhya Pradesh [2000 Onwards],34.20%,11.10%,15.10%,20.13%
+430,Rajkot,Gujarat,30.80%,3.70%,22.60%,19.03%
+431,Rajmahal,Jharkhand,9.50%,3.80%,23.30%,12.20%
+432,Rajnandgaon,Chhattisgarh,8.60%,1.40%,4.30%,4.77%
+433,Rajsamand,Rajasthan,44.50%,14.30%,20.00%,26.27%
+434,Ramanathapuram,Tamil Nadu,11.90%,7.80%,40.30%,20.00%
+435,Rampur,Uttar Pradesh [2000 Onwards],10.40%,9.00%,11.90%,10.43%
+436,Ramtek,Maharashtra,10.60%,5.10%,2.50%,6.07%
+437,Ranaghat,West Bengal,15.70%,2.20%,16.70%,11.53%
+438,Ranchi,Jharkhand,22.90%,8.90%,14.90%,15.57%
+439,Ratlam,Madhya Pradesh [2000 Onwards],6.50%,1.80%,19.00%,9.10%
+440,Ratnagiri - Si,Maharashtra,19.80%,9.00%,10.00%,12.93%
+441,Raver,Maharashtra,30.70%,6.50%,16.70%,17.97%
+442,Rewa,Madhya Pradesh [2000 Onwards],30.90%,3.90%,31.50%,22.10%
+443,Robertsganj,Uttar Pradesh [2000 Onwards],5.50%,0.70%,20.30%,8.83%
+444,Rohtak,Haryana,0.60%,8.40%,21.50%,10.17%
+445,Sabarkantha,Gujarat,22.10%,53.30%,16.30%,30.57%
+446,Sagar,Madhya Pradesh [2000 Onwards],29.50%,2.40%,7.70%,13.20%
+447,Saharanpur,Uttar Pradesh [2000 Onwards],1.80%,23.00%,13.50%,12.77%
+448,Salem,Tamil Nadu,11.70%,10.30%,5.50%,9.17%
+449,Salempur,Uttar Pradesh [2000 Onwards],12.20%,5.20%,23.30%,13.57%
+450,Samastipur,Bihar [2000 Onwards],24.70%,2.90%,27.20%,18.27%
+451,Sambalpur,Orissa,0.80%,17.80%,0.80%,6.47%
+452,Sambhal,Uttar Pradesh [2000 Onwards],14.80%,1.90%,3.10%,6.60%
+453,Sangli,Maharashtra,13.80%,2.00%,0.50%,5.43%
+454,Sangrur,Punjab,10.00%,5.10%,22.90%,12.67%
+455,Sant Kabir Nag,Uttar Pradesh [2000 Onwards],3.40%,4.40%,19.30%,9.03%
+456,Saran,Bihar [2000 Onwards],14.70%,3.70%,9.70%,9.37%
+457,Sarguja,Chhattisgarh,12.30%,8.90%,4.70%,8.63%
+458,Sasaram,Bihar [2000 Onwards],17.00%,19.80%,12.40%,16.40%
+459,Satara,Maharashtra,11.30%,7.20%,7.50%,8.67%
+460,Satna,Madhya Pradesh [2000 Onwards],20.80%,36.40%,37.50%,31.57%
+461,Secundrabad,Telangana,6.80%,0.70%,1.00%,2.83%
+462,Shahdol,Madhya Pradesh [2000 Onwards],32.60%,19.70%,25.40%,25.90%
+463,Shahjahanpur,Uttar Pradesh [2000 Onwards],22.60%,2.10%,24.90%,16.53%
+464,Sheohar,Bihar [2000 Onwards],33.90%,8.90%,20.80%,21.20%
+465,Shillong,Meghalaya,19.40%,21.90%,16.20%,19.17%
+466,Shimla,Himachal Pradesh,35.80%,22.50%,6.50%,21.60%
+467,Shimoga,Karnataka,17.40%,4.40%,11.40%,11.07%
+468,Shirdi,Maharashtra,11.70%,5.50%,32.20%,16.47%
+469,Shirur,Maharashtra,4.50%,20.00%,21.40%,15.30%
+470,Shrawasti,Uttar Pradesh [2000 Onwards],0.50%,21.30%,27.70%,16.50%
+471,Sidhi,Madhya Pradesh [2000 Onwards],22.30%,6.90%,8.80%,12.67%
+472,Sikar,Rajasthan,22.40%,6.80%,10.90%,13.37%
+473,Sikkim,Sikkim,3.50%,20.60%,22.40%,15.50%
+474,Silchar,Assam,8.60%,33.00%,13.50%,18.37%
+475,Singhbhum,Jharkhand,8.20%,6.00%,4.40%,6.20%
+476,Sirsa,Haryana,22.60%,15.50%,11.00%,16.37%
+477,Sitamarhi,Bihar [2000 Onwards],24.10%,3.60%,9.00%,12.23%
+478,Sitapur,Uttar Pradesh [2000 Onwards],9.50%,19.20%,16.40%,15.03%
+479,Sivaganga,Tamil Nadu,30.60%,2.80%,5.00%,12.80%
+480,Siwan,Bihar [2000 Onwards],11.90%,0.40%,22.30%,11.53%
+481,Solapur,Maharashtra,14.60%,9.90%,12.90%,12.47%
+482,Sonipat,Haryana,14.60%,13.40%,15.70%,14.57%
+483,South Delhi,Delhi [1977 Onwards],30.20%,22.60%,7.90%,20.23%
+484,South Goa,Goa,2.30%,12.70%,9.70%,8.23%
+485,Srerampur,West Bengal,7.00%,4.60%,7.90%,6.50%
+486,Srikakulam,Andhra Pradesh [2014 Onwards],0.60%,12.70%,11.80%,8.37%
+487,Srinagar,Jammu & Kashmir,37.50%,9.00%,12.10%,19.53%
+488,Sriperumbudur,Tamil Nadu,36.10%,10.70%,13.50%,20.10%
+489,Sultanpur,Uttar Pradesh [2000 Onwards],1.50%,3.20%,8.00%,4.23%
+490,Sundargarh,Orissa,20.30%,14.00%,18.50%,17.60%
+491,Supaul,Bihar [2000 Onwards],24.00%,1.50%,1.90%,9.13%
+492,Surat,Gujarat,51.30%,23.80%,6.10%,27.07%
+493,Surendranagar,Gujarat,25.70%,10.70%,56.20%,30.87%
+494,Tamluk,West Bengal,13.10%,0.80%,21.50%,11.80%
+495,Tehri Garhwal,Uttarakhand,34.30%,15.10%,18.40%,22.60%
+496,Tenkasi,Tamil Nadu,11.30%,9.00%,24.80%,15.03%
+497,Tezpur,Assam,20.40%,4.60%,15.90%,13.63%
+498,Thane,Maharashtra,35.20%,3.60%,8.80%,15.87%
+499,Thanjavur,Tamil Nadu,34.80%,6.50%,26.70%,22.67%
+500,Theni,Tamil Nadu,6.50%,12.60%,14.20%,11.10%
+501,Thiruvallur,Tamil Nadu,25.30%,0.80%,29.20%,18.43%
+502,Thiruvananthap,Kerala,9.90%,3.70%,25.80%,13.13%
+503,Thoothukkudi,Tamil Nadu,35.00%,13.50%,1.80%,16.77%
+504,Thrissur,Kerala,9.00%,11.70%,13.50%,11.40%
+505,Tikamgarh,Madhya Pradesh [2000 Onwards],31.70%,3.10%,4.20%,13.00%
+506,Tiruchirappall,Tamil Nadu,43.80%,8.00%,27.20%,26.33%
+507,Tirunelveli,Tamil Nadu,17.80%,0.60%,15.20%,11.20%
+508,Tirupati,Andhra Pradesh [2014 Onwards],17.40%,3.00%,13.10%,11.17%
+509,Tiruppur,Tamil Nadu,8.30%,1.80%,3.10%,4.40%
+510,Tiruvannamalai,Tamil Nadu,26.40%,11.50%,17.10%,18.33%
+511,Tonk-Sawai Mad,Rajasthan,9.00%,17.60%,15.80%,14.13%
+512,Tripura East,Tripura,19.50%,0.00%,13.00%,10.83%
+513,Tripura West,Tripura,27.60%,35.90%,50.90%,38.13%
+514,Tumkur,Karnataka,1.10%,26.40%,46.90%,24.80%
+515,Tura,Meghalaya,11.00%,2.40%,6.70%,6.70%
+516,Udaipur,Rajasthan,30.10%,5.20%,8.70%,14.67%
+517,Udhampur,Jammu & Kashmir,30.30%,21.70%,19.80%,23.93%
+518,Udupi Chikmaga,Karnataka,30.40%,2.20%,5.90%,12.83%
+519,Ujiarpur,Bihar [2000 Onwards],28.60%,3.20%,17.60%,16.47%
+520,Ujjain,Madhya Pradesh [2000 Onwards],29.20%,4.50%,7.00%,13.57%
+521,Uluberia,West Bengal,16.40%,2.40%,30.50%,16.43%
+522,Unnao,Uttar Pradesh [2000 Onwards],32.40%,9.80%,17.00%,19.73%
+523,Uttara Kannada,Karnataka,41.60%,33.40%,25.80%,33.60%
+524,Vadakara,Kerala,7.90%,3.00%,14.10%,8.33%
+525,Vadodara,Gujarat,48.20%,6.50%,0.30%,18.33%
+526,Vaishali,Bihar [2000 Onwards],21.80%,18.20%,49.10%,29.70%
+527,Valmiki Nagar,Bihar [2000 Onwards],34.40%,3.60%,10.70%,16.23%
+528,Valsad,Gujarat,28.10%,30.70%,13.10%,23.97%
+529,Varanasi,Uttar Pradesh [2000 Onwards],45.20%,0.90%,18.50%,21.53%
+530,Vidisha,Madhya Pradesh [2000 Onwards],40.20%,2.60%,36.10%,26.30%
+531,Vijayawada,Andhra Pradesh [2014 Onwards],0.70%,14.80%,6.10%,7.20%
+532,Viluppuram,Tamil Nadu,11.30%,70.10%,38.30%,39.90%
+533,Virudhunagar,Tamil Nadu,14.40%,1.20%,6.30%,7.30%
+534,Visakhapatnam,Andhra Pradesh [2014 Onwards],0.40%,0.40%,18.10%,6.30%
+535,Vizianagaram,Andhra Pradesh [2014 Onwards],3.90%,2.10%,14.40%,6.80%
+536,Warangal,Telangana,33.00%,6.60%,7.80%,15.80%
+537,Wardha,Maharashtra,17.50%,5.90%,9.50%,10.97%
+538,Wayanad,Kerala,39.50%,12.10%,33.40%,28.33%
+539,West Delhi,Delhi [1977 Onwards],40.10%,12.50%,21.30%,24.63%
+540,Yavatmal-Washi,Maharashtra,10.00%,18.60%,2.30%,10.30%
+541,Zahirabad,Telangana,0.60%,14.60%,19.90%,11.70%
+,,,,6.80%,9.10%,5.30%
+,,,,1.70%,13.20%,4.97%
